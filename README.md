@@ -26,7 +26,7 @@
 - 💻 I'm working as python developer on a freelance for building web apps.
 - 🌱 Exploring Technical Content Writing.
 - 📚 In my free time I solve problems on codewars and read tech literature
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/3392b1262/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/3392b1262/)
 
 ---
 ### 🛠️ Languages and Tools :
